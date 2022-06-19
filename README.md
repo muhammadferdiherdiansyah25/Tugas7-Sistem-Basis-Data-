@@ -64,8 +64,9 @@ Pisahkan pertabel.
 
 - Hasil Broswer nya .
 
-![image](https://user-images.githubusercontent.com/101733752/174446757-78267e50-d2d2-4b14-87f9-6ab55cefddd6.png)
+![image](https://user-images.githubusercontent.com/101733752/174463501-7cbc1573-0797-4037-965e-87529021352c.png)
 
-![image](https://user-images.githubusercontent.com/101733752/174446816-c344eb8f-76e8-4675-bb40-50eb81c45fd9.png)
+![image](https://user-images.githubusercontent.com/101733752/174463510-b9ca5d8c-02f4-4b92-b813-56d305ee01cb.png)
+
 
 
